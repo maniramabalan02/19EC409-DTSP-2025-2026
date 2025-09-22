@@ -75,9 +75,10 @@ title("Phase Spectrum");
 
 # OUTPUT: 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4392fc44-5858-458b-a800-f9593ed82736" />
-<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/90cce281-c72a-4411-a637-5928847090f4" />
 
 
 
 
 # RESULT: 
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/90cce281-c72a-4411-a637-5928847090f4" />
+
