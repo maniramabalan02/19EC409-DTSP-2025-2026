@@ -1,12 +1,16 @@
-EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
-AIM:
-To Obtain DFT and FFT of a given sequence in SCILAB.
-APPARATUS REQUIRED:
-PC installed with SCILAB.
 
-PROGRAM:
-// DISCRETE FOURIER TRANSFORM
+# EXP 1 A : COMPUTATION OF DFT USING DIRECT AND FFT
 
+# AIM: 
+
+# To Obtain DFT and FFT of a given sequence in SCILAB. 
+
+# APPARATUS REQUIRED: 
+PC installed with SCILAB. 
+
+# PROGRAM: 
+// DISCRETE FOURIER TRANSFORM 
+```
 
 clc;
 clear;
@@ -67,6 +71,13 @@ plot(freq_index, atan(imag(X), real(X)), 'o-'); // phase = atan2(imag, real)
 xlabel("Frequency index (k)");
 ylabel("Phase (radians)");
 title("Phase Spectrum");
-OUTPUT:
-image image
-RESULT:
+```
+
+# OUTPUT: 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4392fc44-5858-458b-a800-f9593ed82736" />
+<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/90cce281-c72a-4411-a637-5928847090f4" />
+
+
+
+
+# RESULT: 
